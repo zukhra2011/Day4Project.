@@ -6,6 +6,7 @@ public class BranchingPractice {
         //made initial commit by keeping track of all files
         //shared project on github
         //reviewing on new branch.
+        //If target folder isnt present just run the new java class.
 
     }
 }
